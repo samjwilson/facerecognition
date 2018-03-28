@@ -1,7 +1,5 @@
 import React from 'react';
-import Tilt from 'react-tilt';
-import ideaLogo from './Logo.svg';
-import './Logo.css';
+
  
 
 const Logo = () => {
